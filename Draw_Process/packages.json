@@ -1,0 +1,13 @@
+{"packages":["# coding:utf-8",
+             "import Lbt.SAP.Actions as SAP_Module",
+             "import Lbt.EXCEL.Actions as EXCEL_Module",
+             "import Lbt.FILE.Actions as FILE_Module",
+             "import Lbt.ACCESS.Actions as ACCESS_Module",
+             "import Lbt.MAIL.Actions as MAIL_Module",
+             "import Lbt.MainFunction.Actions as MainFunction_Module",
+             "import Lbt.MouseKeyboard.Actions as MouseKeyboard_Module",
+             "import Lbt.SelfDevelopment.Actions as SelfDevelopment_Module",
+             "import Lbt.WEB.Actions as WEB_Module",
+             "import Lbt.General.Actions as General_Module",
+             "import Lbt.AI.Actions as AI_Module",
+             "import Lbt.HCI.Actions as HCI_Module"]}

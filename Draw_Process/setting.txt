@@ -1,0 +1,6 @@
+server_address = ws://127.0.0.1:8000
+smtpserver = 10.190.2.136
+smtpport = 25
+sender = jiapei.ren@kostal.com
+pem = KOSTALPrivateKey.pem
+time = time.txt
